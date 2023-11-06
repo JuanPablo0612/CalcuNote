@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Recursos para la pantalla de inicio de sesión -->
+    <string name="login_title">Bienvenido a CalcuNote</string>
+    <string name="login_subtitle">Inicia sesión para acceder a todas las funciones y beneficios de CalcuNote</string>
+    <string name="login_email_field">Correo electrónico:</string>
+    <string name="login_email_error">El correo electrónico no es válido</string>
+    <string name="login_password_field">Contraseña:</string>
+    <string name="login_password_error">La contraseña debe tener entre 8 y 16 caracteres</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="login_forgot_password_option">¿Olvidaste tu contraseña? Recupérala aquí</string>
+    <string name="login_register_option">¿No tienes una cuenta? Regístrate gratis</string>
+    <string name="login_social_option">O inicia sesión con:</string>
+
+    <!-- Recursos para la pantalla de registro -->
+    <string name="register_title">Únete a CalcuNote</string>
+    <string name="register_subtitle">Crea una cuenta gratis y empieza a disfrutar de CalcuNote</string>
+    <string name="register_email_field">Correo electrónico:</string>
+    <string name="register_email_error">El correo electrónico no es válido</string>
+    <string name="register_password_field">Contraseña:</string>
+    <string name="register_password_error">La contraseña debe tener entre 8 y 16 caracteres</string>
+    <string name="register_confirm_password_field">Confirma tu contraseña:</string>
+    <string name="register_confirm_password_error">Las contraseñas no coinciden</string>
+    <string name="register_name_field">Nombre:</string>
+    <string name="register_name_error">El nombre no debe estar vacío</string>
+    <string name="register_identity_document_field">Documento de identidad:</string>
+    <string name="register_identity_document_error">El documento de identidad no debe estar vacío</string>
+    <string name="register_button">Registrarse</string>
+    <string name="register_terms_option">Al registrarte, aceptas nuestros términos y condiciones</string>
+    <string name="register_login_option">¿Ya tienes una cuenta? Inicia sesión aquí</string>
+    <string name="register_social_option">O regístrate con:</string>
+
+    <!-- Recursos para la pantalla principal -->
+    <string name="main_add_course_button">Añadir</string>
+    <string name="main_no_courses_message">No hay cursos. Pulsa el botón “+” para añadir uno.</string>
+    <string name="main_home">Inicio</string>
+
+    <!-- Recursos para la pantalla de detalles del curso -->
+    <string name="course_details_title">Detalles del curso</string>
+    <string name="course_name_field">Nombre del curso:</string>
+    <string name="course_name_error">El nombre del curso no debe estar vacio</string>
+    <string name="course_final_note_label">Nota final del curso</string>
+    <string name="course_final_period_note_label">Nota final del periodo</string>
+    <string name="course_status_label">Estado:</string>
+    <string name="course_notes_label">Notas:</string>
+    <string name="course_add_note_button">Añadir</string>
+    <string name="course_number_of_notes_label">Número de notas: %1$d</string>
+
+    <!-- Recursos para los detalles de la nota -->
+    <string name="note_details_title">Detalles de la nota</string>
+    <string name="note_name_label">Nombre de la nota:</string>
+    <string name="note_value_label">Nota:</string>
+    <string name="note_percentage_label">Porcentaje:</string>
+    <string name="note_save_button">Guardar</string>
+
+    <!-- Recursos para los estados de las notas -->
+    <string name="grade_status_reproached">Reprobado</string>
+    <string name="grade_status_basic">Aprobado con Básico</string>
+    <string name="grade_status_high">Aprobado con Alto</string>
+    <string name="grade_status_superior">Aprobado con Superior</string>
+
+    <!-- Recursos para los periodos académicos -->
+    <string name="academic_period_first">Primer periodo</string>
+    <string name="academic_period_second">Segundo periodo</string>
+    <string name="academic_period_third">Tercer periodo</string>
+
+    <!-- Recursos para las competencias -->
+    <string name="competence_to_be">Ser</string>
+    <string name="competence_to_do">Hacer</string>
+    <string name="competence_to_know">Saber</string>
+</resources>

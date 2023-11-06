@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name" translatable="false">CalcuNote</string>
+
+    <!-- Resources for the login screen -->
+    <string name="login_title">Welcome to CalcuNote</string>
+    <string name="login_subtitle">Log in to access all the features and benefits of CalcuNote</string>
+    <string name="login_email_field">Email:</string>
+    <string name="login_email_error">The email is not valid</string>
+    <string name="login_password_field">Password:</string>
+    <string name="login_password_error">The password must be between 8 and 16 characters</string>
+    <string name="login_button">Log in</string>
+    <string name="login_forgot_password_option">Forgot your password? Recover it here</string>
+    <string name="login_register_option">Don\'t have an account? Sign up for free</string>
+    <string name="login_social_option">Or log in with:</string>
+
+    <!-- Resources for the register screen -->
+    <string name="register_title">Join CalcuNote</string>
+    <string name="register_subtitle">Create a free account and start enjoying CalcuNote</string>
+    <string name="register_email_field">Email:</string>
+    <string name="register_email_error">The email is not valid</string>
+    <string name="register_password_field">Password:</string>
+    <string name="register_password_error">The password must be between 8 and 16 characters</string>
+    <string name="register_confirm_password_field">Confirm your password:</string>
+    <string name="register_confirm_password_error">The passwords do not match</string>
+    <string name="register_name_field">Name:</string>
+    <string name="register_name_error">The name must not be empty</string>
+    <string name="register_identity_document_field">Identity document:</string>
+    <string name="register_identity_document_error">The identity document must not be empty</string>
+    <string name="register_button">Register</string>
+    <string name="register_terms_option">By registering, you agree to our terms and conditions</string>
+    <string name="register_login_option">Already have an account? Log in here</string>
+    <string name="register_social_option">Or register with:</string>
+
+    <!-- Resources for the main screen -->
+    <string name="main_add_course_button">Add</string>
+    <string name="main_no_courses_message">No courses. Press the “+” button to add one.</string>
+    <string name="main_home">Home</string>
+
+    <!-- Resources for the course details screen -->
+    <string name="course_details_title">Course details</string>
+    <string name="course_name_field">Course name:</string>
+    <string name="course_name_error">The course name must not be empty</string>
+    <string name="course_final_note_label">Final course grade</string>
+    <string name="course_final_period_note_label">Final period grade</string>
+    <string name="course_status_label">Status:</string>
+    <string name="course_notes_label">Grades:</string>
+    <string name="course_add_note_button">Add</string>
+    <string name="course_number_of_notes_label">Number of grades: %1$d</string>
+
+    <!-- Resources for the grade details -->
+    <string name="note_details_title">Grade details</string>
+    <string name="note_name_label">Grade name:</string>
+    <string name="note_value_label">Grade:</string>
+    <string name="note_percentage_label">Percentage:</string>
+    <string name="note_save_button">Save</string>
+
+    <!-- Resources for the grade statuses -->
+    <string name="grade_status_reproached">Failed</string>
+    <string name="grade_status_basic">Passed with Basic</string>
+    <string name="grade_status_high">Passed with High</string>
+    <string name="grade_status_superior">Passed with Superior</string>
+
+    <!-- Resources for the academic periods -->
+    <string name="academic_period_first">First period</string>
+    <string name="academic_period_second">Second period</string>
+    <string name="academic_period_third">Third period</string>
+
+    <!-- Resources for the competences -->
+    <string name="competence_to_be">To be</string>
+    <string name="competence_to_do">To do</string>
+    <string name="competence_to_know">To know</string>
+</resources>
